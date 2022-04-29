@@ -21,3 +21,7 @@ main{
     box-shadow:  24px 24px 48px #b1b1b1,
              -24px -24px 48px #ffffff;
 }
+
+i{
+    font-size: 50px;
+}
